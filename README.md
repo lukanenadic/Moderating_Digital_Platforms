@@ -17,7 +17,7 @@ The final grade is based on three performance assessments:
 
 ### Final Exam
 
-The final multiple choice exam will last one hour and take place on Tuesday, *December 16, 2025, from 10:15 to 11:15 (exact location TBA)*.
+The final multiple choice exam will last one hour and take place on **Tuesday, December 16, 2025, from 10:15 to 11:15 (exact location TBA)**.
 
 ### Group Assignment
 
