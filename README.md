@@ -6,7 +6,7 @@ Repositiory for the course ["Moderating Digital Platforms" at ETH Zurich, Fall 2
 
 This course delves into the complex legal, social, and technical challenges of online content moderation. It encourages students from diverse technical and scientific disciplines to critically examine how platforms moderate content and reflect about their role as experts in their own disciplinary field within this crucial context.
 
-This repository contains the weekly slides, syllabus, weekly schedule, reading materials, and details about the assignments.
+This repository contains the weekly slides, syllabus, weekly schedule, reading materials, and details about the assignments. *Please note that some slides from guest speakers were only uploaded internally on Moodle to respect the speakers' wishes.*
 
 ## Assignments
 
@@ -17,7 +17,7 @@ The final grade is based on three performance assessments:
 
 ### Final Exam
 
-The final multiple choice exam will last one hour and take place on **Tuesday, December 16, 2025, from 10:15 to 11:15 (exact location TBA)**.
+The final multiple choice exam will last one hour and take place on **Tuesday, December 16, 2025, from 10:15 to 11:15 (Room CHN D42)**.
 
 ### Group Assignment
 
